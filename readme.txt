@@ -7,4 +7,4 @@ How are you now?
 
 comit first time.
 
-My stupid boss still prefers SVN.
+New to github
