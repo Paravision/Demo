@@ -10,3 +10,5 @@ comit first time.
 New to github
 
 做一个新分支dev
+
+Creating a new branch is quick AND simple.
