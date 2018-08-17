@@ -17,3 +17,5 @@ new dev
 
 
 stash stash stash ok
+
+remote dev
