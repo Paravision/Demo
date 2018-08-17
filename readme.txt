@@ -11,4 +11,5 @@ New to github
 
 做一个新分支dev
 
-Creating a new branch is quick & simple
+Creating a new branch is quick and simple.
+
